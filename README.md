@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Preeti
 - 👀 I’m interested in Automation with security, DevSecops.
-- 🌱 I’m currently learning chef on windows, docker.
+- 🌱 I’m currently learning chef on windows, k8S, docker.
 - 💞️ I’m looking to collaborate on devsecops.
 - 
 
